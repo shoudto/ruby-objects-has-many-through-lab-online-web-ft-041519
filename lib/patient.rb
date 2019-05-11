@@ -26,6 +26,8 @@ class Patient
     end 
   end
   
-  
+  def doctors 
+    
+  end 
   
 end 
