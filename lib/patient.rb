@@ -27,7 +27,7 @@ class Patient
   end
   
   def doctors 
-    binding.pry 
+   # binding.pry 
     self.appointments.collect {|app| app.doctor}
   end 
   
